@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#5a9bd4"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="red" class="cls-1">
+    <image id="_5" data-name="5" x="17" y="12" width="44" height="44" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAu0lEQVRYhe2YwQ7EIAhEoen//zJNbwY3UrSzG9x5tx6QObwSVM1MMqhqriCJmemo4kA2R8DAaM7ofO/s7ZjqULOQ0X/zqV/7TSXQ1Hc4cgiN7+fzUAk09Rz+grPd0G3neLYflUCz3y4xAXRfphJo/tLhyFk/Z5ccpxJo9r/TTZCq553u15QL3L2tPdmP33yXyO7jVAJNfYfDgvW5nO7ZQiXQMDAaBkaz/xyWfpfwB0SLxtJbHpVAUyuwiFwyOEhUuQ+mBAAAAABJRU5ErkJggg=="/>
+  </g>
+</svg>
